@@ -1,0 +1,2 @@
+# BlochEq.jl
+Bloch equations
