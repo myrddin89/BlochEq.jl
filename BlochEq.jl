@@ -17,7 +17,6 @@ end
 begin
 	import Pkg; Pkg.activate(@__DIR__)
 	using Plots, PlutoUI
-	plotlyjs()
 end
 
 # ╔═╡ 688ba03f-a052-421d-9c0c-91b33a27d02c
@@ -62,8 +61,8 @@ end
 
 # ╔═╡ Cell order:
 # ╠═688ba03f-a052-421d-9c0c-91b33a27d02c
+# ╟─8daf0654-5b8e-4e53-8655-6c52173cc0d5
 # ╠═6cc56a8a-f937-4735-9f5f-4162aec6c97c
-# ╠═8daf0654-5b8e-4e53-8655-6c52173cc0d5
 # ╠═bfd1b44e-b63e-4644-bb91-f2e7d3a6d2eb
 # ╠═664f2bc3-bd52-4240-9443-b2fcd7500f04
 # ╠═960703e4-98b3-11eb-327d-e3640b19b7e8
